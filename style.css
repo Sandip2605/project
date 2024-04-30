@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.mainbox {
+    background-color: rgb(219, 185, 143);
+    width: 100vw;
+    height: 100vw;
+    padding: 12px;
+}
+.title {
+    margin-top: 25px;
+    margin-right: 100px;
+}
+.header {
+    height: 150px;
+    background-color: rgb(142, 192, 67);
+    display: flex;
+    justify-content: right;
+    padding: 20px;
+    margin: 20px 150px 0px 150px;
+}
+.nav {
+    background-color:rgb(238, 208, 170);
+    display: flex;
+    justify-content: space-around;
+    margin: 0px 150px 0px 150px;
+    border: 0.3px solid;
+}
+.main {
+    background-color: peachpuff;
+    height: 700px;
+    margin: 0px 150px 0px 150px;
+    display: flex;
+    justify-content: space-around;
+}
+.menu {
+    padding: 20px;
+    color: blue;
+    display: flex;
+}
+.mainmenu {
+    width: 200px;
+    height: 600px;
+    margin-top: 50px;
+}
+.mainmenu ul {
+    padding: 0.4rem;
+}
+.mainmenu ul li {
+    list-style: none;
+}
+.mainmenu ul li i{
+    padding: 4px 0.5rem;
+}
+h3.box {
+    background-color: rgb(102, 125, 64);
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.gallery {
+    height: 700px;
+    width: 1000px;
+    margin-top: 50px;
+}
+.sec_box {
+    height: 400px;
+    width: 1000px;
+    display: flex;
+    margin-top: 50px;
+}
+.section1 {
+    width: 500px;
+    margin-right: 100px;
+}
+.section2 {
+    width: 500px;
+}
+button {
+    background-color: rgb(80, 157, 80);
+}
+.footer {
+    background-color: rgb(154, 216, 62);
+    margin: 0px 160px 0px 160px;
+    height: 50px;
+    text-align: center;
+    position: relative;
+    top: -60px;   
+}
+h4 {
+    padding-top: 15px;
+}
